@@ -3,3 +3,8 @@ Catch-all repo for personal brainstorming. Only relevant for me, my priest, my p
 
 ## HINT
 I have none of the above. Except for me. I have a "me".
+
+List:
+* 1
+* 2
+  * 2.1
